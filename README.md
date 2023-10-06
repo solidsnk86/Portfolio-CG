@@ -6,6 +6,7 @@
    HTML
    CSS
    Less
-   JavaScript 
+   JavaScript
+   Supabase (recepcion de fotmulario con PosgreeSQL en supabase)
 
 # Proyecto que voy a Migrar a React
