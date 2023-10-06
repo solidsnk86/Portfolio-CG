@@ -7,6 +7,6 @@
    CSS
    Less
    JavaScript
-   Supabase (recepcion de fotmulario con PosgreeSQL en supabase)
+   Supabase (recepcion de formulario con PosgreeSQL en supabase[Github Pages no permite ese fetch!])
 
 # Proyecto que voy a Migrar a React
