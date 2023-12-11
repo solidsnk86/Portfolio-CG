@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Mi-Portolio-tomato)
+![Static Badge](https://img.shields.io/badge/Mi-Cv-tomato)
 
 - Este es mi portfolio personal, más bien mi currículum...
 - En mi experiencia he agregado mis trabajos que nada tienen que ver con la programación pero me llevaron a ello.
