@@ -10,4 +10,4 @@
 
 ### Proyecto migrado a React con Nextjs y Supabase:
 
-[!Link](https://solidsnk86.netlify.app/)
+[Link](https://solidsnk86.netlify.app/)
